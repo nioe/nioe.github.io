@@ -1,1 +1,2 @@
-# GitHub Pages of nioe
+# Angular Workshop
+* [Slides](/ws-angular_slides)
